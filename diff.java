@@ -4,6 +4,6 @@ public class diff {
         int num2 = 5;
         int difference = num1 - num2;
 
-        System.out.println("The difference " + num1 + " and " + num2 + " is " + difference);
+        System.out.println("The minus " + num1 + " and " + num2 + " is " + difference);
     }
 }
