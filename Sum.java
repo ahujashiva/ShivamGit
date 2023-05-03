@@ -12,7 +12,7 @@ public class Sum {
 
         int sum = num1 + num2;
 
-        System.out.println("The sum of " + num1 + " and " + num2 + " is " + sum);
+        System.out.println("The sum  " + num1 + " and " + num2 + " is " + sum);
 
         input.close();
     }
